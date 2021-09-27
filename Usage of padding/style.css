@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(252, 255, 236);
+}
+
+.proheader {
+    background-color: rgb(201, 198, 198);
+    margin: 45px;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+}
+
+div {
+    margin: 45px;
+}
+
+h2 {
+    margin: 15px;
+    text-transform: uppercase;
+}
+
+p {
+    margin: 15px;
+}
+
+.mesection {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.coursesection {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    margin-top: 25px;
+}
