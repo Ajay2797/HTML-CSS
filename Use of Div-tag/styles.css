@@ -1,0 +1,22 @@
+.divbox{
+    height: 330px;
+    width: auto;
+    border: solid;
+    border-color: black;
+}
+.navbar{
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: rgb(224, 224, 224);
+    height: 230px;
+    width: 22%;
+    float: left;
+}
+.arti{
+    margin-top: 40px;
+    margin-right: 20px;
+    background-color: rgb(245, 208, 208);
+    height: 230px;
+    width: 72%;
+    float: right;
+}
